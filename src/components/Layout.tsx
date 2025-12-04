@@ -47,7 +47,7 @@ export function Layout({ activePage, onChangePage, children }: LayoutProps) {
         }}
         >
         <img
-          src="/src/assets/logo.png"
+          src="/logo.png"
           alt="Utah Animals Hub Logo"
           style={{
             width: "70px",
